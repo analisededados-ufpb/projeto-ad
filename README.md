@@ -1,2 +1,2 @@
 # projeto-ad
-Templata para projeto da disciplina de Análise de Dados
+Template para projeto da disciplina de Análise de Dados
